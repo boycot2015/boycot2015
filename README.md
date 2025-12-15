@@ -19,13 +19,7 @@ I work primarily with **TypeScript** and the modern web stack:
 - **Runtimes**: Node.js, Deno, Bun
 - **DevOps**: Docker, Vercel, GitHub Actions, Cloudflare Workers
 
-## 📊 GitHub Stats
-
-<img src="https://stats.boycot.top/api?username=boycot2015&show_icons=true&theme=default&hide_border=true&hide_title=true&count_private=true" alt="GitHub Stats" width="50%" />
-<img src="https://stats.boycot.top/api/top-langs/?username=boycot2015&layout=compact" alt="Top Languages" width="50%" />
-
-[![Byt Tab](https://stats.boycot.top/api/pin/?username=boycot2015&repo=byt.tab)](https://github.com/boycot2015/byt.tab)
-[![Byt Music](https://stats.boycot.top/api/pin/?username=boycot2015&repo=byt.music)](https://github.com/boycot2015/byt.music)
+## 🩻 GitHub Commits
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/boycot2015/boycot2015/output/github-contribution-grid-snake-dark.svg">
@@ -33,6 +27,15 @@ I work primarily with **TypeScript** and the modern web stack:
     <img alt="github contribution grid" src="https://raw.githubusercontent.com/boycot2015/boycot2015/output/github-contribution-grid-snake.svg" width="100%">
   </picture>
 </div>
+
+## 📊 GitHub Stats
+<div align="center">
+    <img src="https://stats.boycot.top/api?username=boycot2015&show_icons=true&theme=default&count_private=true" alt="GitHub Stats" width="50%" />
+    <img src="https://stats.boycot.top/api/top-langs/?username=boycot2015&layout=compact" alt="Top Languages" width="50%" />
+</div>
+
+<!-- [![Byt Tab](https://stats.boycot.top/api/pin/?username=boycot2015&repo=byt.tab)](https://github.com/boycot2015/byt.tab)
+[![Byt Music](https://stats.boycot.top/api/pin/?username=boycot2015&repo=byt.music)](https://github.com/boycot2015/byt.music) -->
 
 <div align="right">
   <img src="https://komarev.com/ghpvc/?username=boycot2015&color=orange" alt="Profile views" />
