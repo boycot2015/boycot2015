@@ -29,11 +29,14 @@ I work primarily with **TypeScript** and the modern web stack:
 </div>
 
 ## 📊 GitHub Stats
-<div align="center">
-    <img src="https://stats.boycot.top/api?username=boycot2015&show_icons=true&theme=default&count_private=true" alt="GitHub Stats" width="50%" />
-    <img src="https://stats.boycot.top/api/top-langs/?username=boycot2015&layout=compact" alt="Top Languages" width="50%" />
+<div align="center" style="display: flex; justify-content: space-between;margin-bottom: 15px">
+    <img src="https://stats.boycot.top/api?username=boycot2015&show_icons=true&theme=vue&count_private=true&show_icons=true" alt="GitHub Stats" width="49%" />
+    <img src="https://stats.boycot.top/api/top-langs/?username=boycot2015&layout=compact&hide_title=true&theme=default" alt="Top Languages" width="47%" />
 </div>
-
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs&layout=compact" alt="GitHub WakaTime stats" width="100%" />
+</div>
+<!-- [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 <!-- [![Byt Tab](https://stats.boycot.top/api/pin/?username=boycot2015&repo=byt.tab)](https://github.com/boycot2015/byt.tab)
 [![Byt Music](https://stats.boycot.top/api/pin/?username=boycot2015&repo=byt.music)](https://github.com/boycot2015/byt.music) -->
 
